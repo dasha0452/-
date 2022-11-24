@@ -29,7 +29,7 @@ public class Program {
         }
         System.out.print("Ваш возраст: ");
         System.out.print(2022-year );
-        System.out.print(" лет ");
+        System.out.print(" лет/года ");
         System.out.print(11-month );
         System.out.print(" месяцев/ца ");
         System.out.print(24-day );
