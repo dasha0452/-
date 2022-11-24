@@ -1,8 +1,7 @@
-
 import java.util.Random;
 import java.util.Scanner;
 
-public class Program {
+public class Main {
 
 
     public static void main(String[] args) {
@@ -27,13 +26,14 @@ public class Program {
             System.out.println("error");
             return;
         }
-        System.out.print("Ваш возраст: ");
-        System.out.print(2022-year );
-        System.out.print(" лет/года ");
-        System.out.print(11-month );
-        System.out.print(" месяцев/ца ");
-        System.out.print(24-day );
-        System.out.println(" дней");
+        System.out.println("your age is ");
+        System.out.println(2022-year);
+        System.out.println("лет");
+        System.out.println(12-month);
+        System.out.println("месяцев");
+        System.out.println(31-day);
+        System.out.println("дней");
+
 
     }
 }
